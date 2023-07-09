@@ -1,6 +1,6 @@
 # promo-code-checker
 
 checks discord promo codes
-del.bat for deleting text files and make.bat for re creating them ( resetting them )
+put a token in hawk.py and run it
 
 @hawkboosts | discord.gg/hawkboosts
